@@ -8,9 +8,9 @@ Session 2 Week 1 Practical task
   <html>
 
   <h1> this is bad </h1>
-  
+
+```
   ## This is how we include an image
   ![this is an image](desert.jpg)
   >> <sub> this is from the desktop </sub>
-  
-```
+
