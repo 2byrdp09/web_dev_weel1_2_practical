@@ -10,7 +10,7 @@ Session 2 Week 1 Practical task
   <h1> this is bad </h1>
 
 ```
-  ## This is how we include an image
+## This is how we include an image
   ![this is an image](Desert.jpg)
   >> <sub> this is from the desktop </sub>
 
