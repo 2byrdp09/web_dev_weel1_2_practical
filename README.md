@@ -11,6 +11,6 @@ Session 2 Week 1 Practical task
 
 ```
   ## This is how we include an image
-  ![this is an image](desert.jpg)
+  ![this is an image](Desert.jpg)
   >> <sub> this is from the desktop </sub>
 
